@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>WiFiAdapter</Title>
+    <PackageId>WiFiAdapter</PackageId>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>WiFi Adapter (Native WiFi OS Windwos)</Description>
+    <PackageIcon>logo wifi.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="logo wifi.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
