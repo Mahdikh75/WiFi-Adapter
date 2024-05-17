@@ -9,6 +9,9 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>WiFi Adapter (Native WiFi OS Windwos)</Description>
     <PackageIcon>logo wifi.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/Mahdikh75/WiFi-Adapter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Mahdikh75/WiFi-Adapter</RepositoryUrl>
+    <PackageTags>WiFi , Wireless</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
