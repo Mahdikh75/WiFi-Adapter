@@ -2,7 +2,6 @@
 
 WiFiAdapter Windows OS
 
-    -------------------------
 Code Simple for :
 
     public static WlanClient.WlanInterface Interface;
@@ -18,5 +17,4 @@ Code Simple for :
 
     AvNetwork = Interface.GetAvailableNetworkList(Wlan.WlanGetAvailableNetworkFlags.IncludeAllManualHiddenProfiles);
 
-    -------------------------
 using the objects 'Interface' , 'AvNetwork' for app .....
